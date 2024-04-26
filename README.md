@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Go to live site 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://calandingpage.web.app/
 
 ## Available Scripts
 
